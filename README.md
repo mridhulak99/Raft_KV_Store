@@ -1,4 +1,4 @@
-# cached
+# Raft Implementation
 
 A distributed key-value store using Raft algorithm.
 
